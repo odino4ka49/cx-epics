@@ -1,0 +1,126 @@
+
+  {
+    "channel": "vepp4-pult6:2.cgvi.onoff",
+    "pv": "K500:M7:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.cgvi.blk",
+    "pv": "K500:M7_Trig:Blk-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.cgvi.vsdc_stop",
+    "pv": "K500:Trig:StopVsDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.cgvi.ena_vsdc",
+    "pv": "K500:VsDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.cgvi.iv3on",
+    "pv": "K500:IV3:ON-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.cgvi.iv3pozi",
+    "pv": "K500:pozi-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.gvi.Dly_vsdc",
+    "pv": "K500:FC_Trig:StopVsDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.gvi.ena_vsdc",
+    "pv": "K500:FC_VSDCtrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_4.Qmes",
+    "pv": "K500:FC:Qmeas",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group0.cea.adc_beg",
+    "pv": "K500:0CEAC124:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group0.cea.adc_end",
+    "pv": "K500:0CEAC124:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group0.cea.adc_timecode",
+    "pv": "K500:0CEAC124:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group1.cea.adc_beg",
+    "pv": "K500:1CEAC124:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group1.cea.adc_end",
+    "pv": "K500:1CEAC124:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group1.cea.adc_timecode",
+    "pv": "K500:1CEAC124:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group2.cea.adc_beg",
+    "pv": "K500:2CEAC124:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group2.cea.adc_end",
+    "pv": "K500:2CEAC124:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group2.cea.adc_timecode",
+    "pv": "K500:2CEAC124:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.cea.adc_beg",
+    "pv": "K500:3CEAC124:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.cea.adc_end",
+    "pv": "K500:3CEAC124:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.cea.adc_timecode",
+    "pv": "K500:3CEAC124:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },

@@ -1,0 +1,1133 @@
+[
+  {
+    "channel": "vepp4-pult6:2.m5.Iset",
+    "pv": "K500:M5_I-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.dcct1",
+    "pv": "K500:M5_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.dcct2",
+    "pv": "K500:M5_I:DCCT2-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.dac_mes",
+    "pv": "K500:M5_I:DAC-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.u2",
+    "pv": "K500:M5_V:load-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.adc4",
+    "pv": "K500:M5_V:Polarity-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.is_on",
+    "pv": "K500:M5_Pwr:On-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.rst_ilks",
+    "pv": "K500:M5_Rst:Err-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.opr",
+    "pv": "K500:M5_Sts:Pwr-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_out_prot",
+    "pv": "K500:M5_Flt:ExternalIlk-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_water",
+    "pv": "K500:M5_Flt:PSwater-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_imax",
+    "pv": "K500:M5_Flt:PSovercur-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_umax",
+    "pv": "K500:M5_Flt:PSovervolt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_battery",
+    "pv": "K500:M5_Flt:Battery-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_phase",
+    "pv": "K500:M5_Flt:AcPhase-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.m5.ilk_temp",
+    "pv": "K500:M5_Flt:PSovrheat-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kz13.Iset",
+    "pv": "K500:KZ13_I-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kz13.Imes",
+    "pv": "K500:KZ13_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kz13.Umes",
+    "pv": "K500:KZ13_V:load-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kx14.iset",
+    "pv": "K500:KX14_I-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kx14.imes",
+    "pv": "K500:KX14_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.kx14.Umes",
+    "pv": "K500:KX14_V:load-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km5.iset",
+    "pv": "K500:KZM5_I-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km5.imes",
+    "pv": "K500:KZM5_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km5.Umes",
+    "pv": "K500:KZM5_V:load-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km6.iset",
+    "pv": "K500:KZM6_I-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km6.imes",
+    "pv": "K500:KZM6_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr.km6.Umes",
+    "pv": "K500:KZM6_V:load-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.Uset",
+    "pv": "K500:L21_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.Uuvh",
+    "pv": "K500:L21_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.onoff",
+    "pv": "K500:L21:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.err",
+    "pv": "K500:L21_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.Dly_gid",
+    "pv": "K500:L21_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.Dly_vsdc",
+    "pv": "K500:L21_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.ena_gid",
+    "pv": "K500:L21_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.ena_vsdc",
+    "pv": "K500:L21_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L21.Imes",
+    "pv": "K500:L21_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.Uset",
+    "pv": "K500:L22_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.Uuvh",
+    "pv": "K500:L22_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.onoff",
+    "pv": "K500:L22:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.err",
+    "pv": "K500:L22_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.Dly_gid",
+    "pv": "K500:L22_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.Dly_vsdc",
+    "pv": "K500:L22_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.ena_gid",
+    "pv": "K500:L22_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.ena_vsdc",
+    "pv": "K500:L22_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L22.Imes",
+    "pv": "K500:L22_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.Uset",
+    "pv": "K500:L23_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.Uuvh",
+    "pv": "K500:L23_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.onoff",
+    "pv": "K500:L23:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.err",
+    "pv": "K500:L23_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.Dly_gid",
+    "pv": "K500:L23_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.Dly_vsdc",
+    "pv": "K500:L23_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.ena_gid",
+    "pv": "K500:L23_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.ena_vsdc",
+    "pv": "K500:L23_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L23.Imes",
+    "pv": "K500:L23_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.Uset",
+    "pv": "K500:L24_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.Uuvh",
+    "pv": "K500:L24_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.onoff",
+    "pv": "K500:L24:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.err",
+    "pv": "K500:L24_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.Dly_gid",
+    "pv": "K500:L24_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.Dly_vsdc",
+    "pv": "K500:L24_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.ena_gid",
+    "pv": "K500:L24_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.ena_vsdc",
+    "pv": "K500:L24_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L24.Imes",
+    "pv": "K500:L24_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.Uset",
+    "pv": "K500:L25_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.Uuvh",
+    "pv": "K500:L25_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.onoff",
+    "pv": "K500:L25:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.err",
+    "pv": "K500:L25_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.Dly_gid",
+    "pv": "K500:L25_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.Dly_vsdc",
+    "pv": "K500:L25_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.ena_gid",
+    "pv": "K500:L25_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.ena_vsdc",
+    "pv": "K500:L25_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L25.Imes",
+    "pv": "K500:L25_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.Uset",
+    "pv": "K500:L26_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.Uuvh",
+    "pv": "K500:L26_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.onoff",
+    "pv": "K500:L26:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.err",
+    "pv": "K500:L26_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.Dly_gid",
+    "pv": "K500:L26_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.Dly_vsdc",
+    "pv": "K500:L26_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.ena_gid",
+    "pv": "K500:L26_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.ena_vsdc",
+    "pv": "K500:L26_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L26.Imes",
+    "pv": "K500:L26_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.Uset",
+    "pv": "K500:L27_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.Uuvh",
+    "pv": "K500:L27_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.onoff",
+    "pv": "K500:L27:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.err",
+    "pv": "K500:L27_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.Dly_gid",
+    "pv": "K500:L27_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.Dly_vsdc",
+    "pv": "K500:L27_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.ena_gid",
+    "pv": "K500:L27_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.ena_vsdc",
+    "pv": "K500:L27_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L27.Imes",
+    "pv": "K500:L27_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.Uset",
+    "pv": "K500:L28_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.Uuvh",
+    "pv": "K500:L28_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.onoff",
+    "pv": "K500:L28:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.err",
+    "pv": "K500:L28_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.Dly_gid",
+    "pv": "K500:L28_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.Dly_vsdc",
+    "pv": "K500:L28_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.ena_gid",
+    "pv": "K500:L28_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.ena_vsdc",
+    "pv": "K500:L28_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L28.Imes",
+    "pv": "K500:L28_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.Uset",
+    "pv": "K500:L29_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.Uuvh",
+    "pv": "K500:L29_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.onoff",
+    "pv": "K500:L29:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.err",
+    "pv": "K500:L29_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.Dly_gid",
+    "pv": "K500:L29_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.Dly_vsdc",
+    "pv": "K500:L29_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.ena_gid",
+    "pv": "K500:L29_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.ena_vsdc",
+    "pv": "K500:L29_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L29.Imes",
+    "pv": "K500:L29_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.Uset",
+    "pv": "K500:L30_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.Uuvh",
+    "pv": "K500:L30_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.onoff",
+    "pv": "K500:L30:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.err",
+    "pv": "K500:L30_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.Dly_gid",
+    "pv": "K500:L30_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.Dly_vsdc",
+    "pv": "K500:L30_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.ena_gid",
+    "pv": "K500:L30_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.ena_vsdc",
+    "pv": "K500:L30_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.L30.Imes",
+    "pv": "K500:L30_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.Uset",
+    "pv": "K500:KZ15_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.Uuvh",
+    "pv": "K500:KZ15_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.onoff",
+    "pv": "K500:KZ15:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.err",
+    "pv": "K500:KZ15_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.Dly_gid",
+    "pv": "K500:KZ15_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.Dly_vsdc",
+    "pv": "K500:KZ15_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.ena_gid",
+    "pv": "K500:KZ15_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.ena_vsdc",
+    "pv": "K500:KZ15_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KZ15.Imes",
+    "pv": "K500:KZ15_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.Uset",
+    "pv": "K500:KX16_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.Uuvh",
+    "pv": "K500:KX16_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.onoff",
+    "pv": "K500:KX16:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.err",
+    "pv": "K500:KX16_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.Dly_gid",
+    "pv": "K500:KX16_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.Dly_vsdc",
+    "pv": "K500:KX16_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.ena_gid",
+    "pv": "K500:KX16_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.ena_vsdc",
+    "pv": "K500:KX16_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX16.Imes",
+    "pv": "K500:KX16_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.Uset",
+    "pv": "K500:KX17_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.Uuvh",
+    "pv": "K500:KX17_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.onoff",
+    "pv": "K500:KX17:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.err",
+    "pv": "K500:KX17_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.Dly_gid",
+    "pv": "K500:KX17_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.Dly_vsdc",
+    "pv": "K500:KX17_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.ena_gid",
+    "pv": "K500:KX17_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.ena_vsdc",
+    "pv": "K500:KX17_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KX17.Imes",
+    "pv": "K500:KX17_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.Uset",
+    "pv": "K500:KXL25_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.Uuvh",
+    "pv": "K500:KXL25_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.onoff",
+    "pv": "K500:KXL25:PSon-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.err",
+    "pv": "K500:KXL25_Flt-Sts",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.Dly_gid",
+    "pv": "K500:KXL25_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.Dly_vsdc",
+    "pv": "K500:KXL25_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.ena_gid",
+    "pv": "K500:KXL25_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.ena_vsdc",
+    "pv": "K500:KXL25_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.KL25X.Imes",
+    "pv": "K500:KXL25_I-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.Uset",
+    "pv": "K500:M7_V-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.Uuvh",
+    "pv": "K500:M7_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.Dly_gid",
+    "pv": "K500:M7_Trig:Dly-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.Dly_vsdc",
+    "pv": "K500:M7_Trig:DlyStartVSDC-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.ena_gid",
+    "pv": "K500:M7_PStrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.ena_vsdc",
+    "pv": "K500:M7_VSDCTrigPermit-Cmd",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_3.Imes",
+    "pv": "K500:M7_Field-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.rs4_4.Uuvh",
+    "pv": "K500:IV3_V:Bank-I",
+    "direction": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr_dev.adc_beg",
+    "pv": "K500:0CEAC208:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr_dev.adc_end",
+    "pv": "K500:0CEAC208:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.corr_dev.adc_timecode",
+    "pv": "K500:0CEAC208:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.icd_m5.adc_beg",
+    "pv": "K500:0CDAC20:FirstMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.icd_m5.adc_end",
+    "pv": "K500:0CDAC20:EndMeasChannel-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.icd_m5.adc_timecode",
+    "pv": "K500:0CDAC20:MeasTime-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group0.gvi.prescaler",
+    "pv": "K500:0CGVI8ME:Resolution-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group1.gvi.prescaler",
+    "pv": "K500:1CGVI8ME:Resolution-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group2.gvi.prescaler",
+    "pv": "K500:2CGVI8ME:Resolution-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gid25_group3.gvi.prescaler",
+    "pv": "K500:3CGVI8ME:Resolution-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-pult6:2.gimn_gvi.prescaler",
+    "pv": "K500:0CGVI:Resolution-SP",
+    "direction": "b",
+    "priority": "x"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.tInjPolarityRequest_RB",
+    "pv": "VEPP4:InjPolarityRequest-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.InjPolarityRequest_RB",
+    "pv": "VEPP4:InjPolarityRequest-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.SeparatrixCountRequest_RB",
+    "pv": "VEPP3:SeparatrixCountRequest-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.CurrentRequest_RB",
+    "pv": "VEPP3:CurrentRequest-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.StatusStayTime_RB",
+    "pv": "VEPP3:StatusStayTime-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.StatusRequest_RB",
+    "pv": "VEPP3:StatusRequest-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.tStatusRequest_RB",
+    "pv": "VEPP3:StatusRequest-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.TableName_RB",
+    "pv": "VEPP3:TableName-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.Polarity_RB",
+    "pv": "VEPP3:Polarity-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.tPolarity_RB",
+    "pv": "VEPP3:Polarity-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.Status_RB",
+    "pv": "VEPP3:Status-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.tStatus_RB",
+    "pv": "VEPP3:Status-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.EnergySet_RB",
+    "pv": "VEPP3:EnergySet-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.CurrentTotal_RB",
+    "pv": "VEPP3:CurrentTotal-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.CurrentSep1_RB",
+    "pv": "VEPP3:CurrentSep1-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.CurrentSep2_RB",
+    "pv": "VEPP3:CurrentSep2-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.DiffCurrent_RB",
+    "pv": "VEPP3:DiffCurrent-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.CurrentLifeTime_RB",
+    "pv": "VEPP3:CurrentLifeTime-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.InflectorStatus_RB",
+    "pv": "VEPP3:InflectorStatus-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP3.tInflectorStatus_RB",
+    "pv": "VEPP3:InflectorStatus-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.TableName_RB",
+    "pv": "VEPP4:TableName-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.Status_RB",
+    "pv": "VEPP4:Status-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.tStatus_RB",
+    "pv": "VEPP4:Status-RB",
+    "direction": "p",
+    "datatype": "str"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.EnergySet_RB",
+    "pv": "VEPP4:EnergySet-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentTotal_RB",
+    "pv": "VEPP4:CurrentTotal-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentLifeTime_RB",
+    "pv": "VEPP4:CurrentLifeTime-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentE1_RB",
+    "pv": "VEPP4:CurrentE1-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentE2_RB",
+    "pv": "VEPP4:CurrentE2-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentP1_RB",
+    "pv": "VEPP4:CurrentP1-RB",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.CurrentP2_RB",
+    "pv": "VEPP4:CurrentP2-RB",
+    "direction": "p"
+  }
+
+]

@@ -1,0 +1,4 @@
+#!/bin/bash
+ulimit -c 100000
+cd /tmp
+LD_LIBRARY_PATH=/usr/local/epics/lib/linux-x86_64/ python /home/oidin/projects/cx-gateway/gateway.py 
