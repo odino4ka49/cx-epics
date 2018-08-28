@@ -755,3 +755,7 @@ INFO:root:Trouble in subscribeCxToPv_update with K500:M5_I:DCCT2-I: User specifi
 INFO:root:Trouble in subscribeCxToPv_update with K500:M5_I-I: User specified timeout on IO operation expired
 INFO:root:Trouble in setCxToPv_update with K500:M5_Pwr:On-Cmd: User specified timeout on IO operation expired
 INFO:root:Trouble in setCxToPv_update with K500:M5_Pwr:On-Cmd: User specified timeout on IO operation expired
+INFO:root:Trouble in subscribe_cx_to_pv_update with K500:L21_I-I: Virtual circuit disconnect
+INFO:root:Start
+INFO:root:Start
+INFO:root:Trouble in subscribe_cx_to_pv_update with K500:M5_I-SP: User specified timeout on IO operation expired

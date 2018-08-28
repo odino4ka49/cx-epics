@@ -972,160 +972,165 @@
     "priority": "x"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.tInjPolarityRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP4.tInjPolarityRequest",
     "pv": "VEPP4:InjPolarityRequest-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.InjPolarityRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP4.InjPolarityRequest",
     "pv": "VEPP4:InjPolarityRequest-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.SeparatrixCountRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP3.SeparatrixCountRequest",
     "pv": "VEPP3:SeparatrixCountRequest-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.CurrentRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP3.CurrentRequest",
     "pv": "VEPP3:CurrentRequest-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.StatusStayTime_RB",
+    "channel": "vepp4-vm1:11.VEPP3.StatusStayTime",
     "pv": "VEPP3:StatusStayTime-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.StatusRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP3.StatusRequest",
     "pv": "VEPP3:StatusRequest-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.tStatusRequest_RB",
+    "channel": "vepp4-vm1:11.VEPP3.tStatusRequest",
     "pv": "VEPP3:StatusRequest-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.TableName_RB",
+    "channel": "vepp4-vm1:11.VEPP3.TableName",
     "pv": "VEPP3:TableName-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.Polarity_RB",
+    "channel": "vepp4-vm1:11.VEPP3.Polarity",
     "pv": "VEPP3:Polarity-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.tPolarity_RB",
+    "channel": "vepp4-vm1:11.VEPP3.tPolarity",
     "pv": "VEPP3:Polarity-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.Status_RB",
+    "channel": "vepp4-vm1:11.VEPP3.Status",
     "pv": "VEPP3:Status-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.tStatus_RB",
+    "channel": "vepp4-vm1:11.VEPP3.tStatus",
     "pv": "VEPP3:Status-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.EnergySet_RB",
+    "channel": "vepp4-vm1:11.VEPP3.EnergySet",
     "pv": "VEPP3:EnergySet-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.CurrentTotal_RB",
+    "channel": "vepp4-vm1:11.VEPP3.CurrentTotal",
     "pv": "VEPP3:CurrentTotal-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.CurrentSep1_RB",
+    "channel": "vepp4-vm1:11.VEPP3.CurrentSep1",
     "pv": "VEPP3:CurrentSep1-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.CurrentSep2_RB",
+    "channel": "vepp4-vm1:11.VEPP3.CurrentSep2",
     "pv": "VEPP3:CurrentSep2-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.DiffCurrent_RB",
+    "channel": "vepp4-vm1:11.VEPP3.DiffCurrent",
     "pv": "VEPP3:DiffCurrent-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.CurrentLifeTime_RB",
+    "channel": "vepp4-vm1:11.VEPP3.CurrentLifeTime",
     "pv": "VEPP3:CurrentLifeTime-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.InflectorStatus_RB",
+    "channel": "vepp4-vm1:11.VEPP3.InflectorStatus",
     "pv": "VEPP3:InflectorStatus-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP3.tInflectorStatus_RB",
+    "channel": "vepp4-vm1:11.VEPP3.tInflectorStatus",
     "pv": "VEPP3:InflectorStatus-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.TableName_RB",
+    "channel": "vepp4-vm1:11.VEPP3.Ready",
+    "pv": "VEPP3:InjRequest-SP",
+    "direction": "p"
+  },
+  {
+    "channel": "vepp4-vm1:11.VEPP4.TableName",
     "pv": "VEPP4:TableName-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.Status_RB",
+    "channel": "vepp4-vm1:11.VEPP4.Status",
     "pv": "VEPP4:Status-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.tStatus_RB",
+    "channel": "vepp4-vm1:11.VEPP4.tStatus",
     "pv": "VEPP4:Status-RB",
     "direction": "p",
     "datatype": "str"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.EnergySet_RB",
+    "channel": "vepp4-vm1:11.VEPP4.EnergySet",
     "pv": "VEPP4:EnergySet-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentTotal_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentTotal",
     "pv": "VEPP4:CurrentTotal-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentLifeTime_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentLifeTime",
     "pv": "VEPP4:CurrentLifeTime-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentE1_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentE1",
     "pv": "VEPP4:CurrentE1-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentE2_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentE2",
     "pv": "VEPP4:CurrentE2-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentP1_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentP1",
     "pv": "VEPP4:CurrentP1-RB",
     "direction": "p"
   },
   {
-    "channel": "vepp4-vm1:11.VEPP4.CurrentP2_RB",
+    "channel": "vepp4-vm1:11.VEPP4.CurrentP2",
     "pv": "VEPP4:CurrentP2-RB",
     "direction": "p"
   }
